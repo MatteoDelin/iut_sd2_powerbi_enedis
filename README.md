@@ -12,8 +12,6 @@ colonnes
 * annee_construction
 * surface_habitable_logement
 * adresse_ban
-* conso_5_usages_ep
-* conso_5_usages_ef
 * type_energie_n1
 * conso_chauffage_ef
 * conso_ecs_ef
@@ -25,4 +23,8 @@ colonnes
 * conso_refroidissement_ep
 * conso_eclairage_ep
 * conso_auxiliaires_ep
-* cout_total_5_usages
+* cout_chauffage
+* cout_ecs		
+* cout_refroidissement
+* cout_eclairage
+* cout_auxiliaires

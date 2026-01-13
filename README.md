@@ -4,7 +4,7 @@ On travaille sur les Alpes Maritimes
 
 penser à mettre Mea Culpa
 
-colonnes
+colonnes :
 * numero_dpe
 * date_etablissement_dpe
 * etiquette_dpe

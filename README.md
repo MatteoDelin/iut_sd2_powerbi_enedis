@@ -1,7 +1,7 @@
-# 📊 Projet Power BI : État des Lieux Énergétique (DPE)
-## 🏔️ Focus : Alpes-Maritimes (06)
+# Projet Power BI : État des Lieux Énergétique (DPE)
+## Focus : Alpes-Maritimes (06)
 
-## 📝 À propos du projet
+## À propos du projet
 Face à l'accélération du changement climatique et à la hausse des prix de l'énergie, la sobriété énergétique est au cœur des préoccupations des Français. À la demande d'**Enedis**, la société de service **GreenTech Solutions** a établi un état des lieux de la performance énergétique des logements du département des **Alpes-Maritimes**.
 
 **Problématique :** *Quelles axes d'améliorations peut-on mettre en place, à travers l'analyse de la situation énergétique dans le département des Alpes Maritimes ?*
@@ -13,7 +13,7 @@ Notre approche se décompose en trois phases :
 
 ---
 
-## 🛠️ Spécifications Techniques & Données
+## Spécifications Techniques & Données
 
 ### Source des données
 Les données proviennent de l'API de l'ADEME (Diagnostic de Performance Énergétique v2).
@@ -48,7 +48,7 @@ Les données proviennent de l'API de l'ADEME (Diagnostic de Performance Énergé
 
 ---
 
-## 📂 Livrables du Projet
+## Livrables du Projet
 Conformément au cahier des charges de GreenTech Solutions :
 * **Application Power BI** : Déployée sur Power BI Online.
 * **Fichier Source** : `powerbi.pbix` présent dans ce repository.
@@ -58,7 +58,7 @@ Conformément au cahier des charges de GreenTech Solutions :
 
 ---
 
-## 👥 Équipe et Rôles
+## Équipe et Rôles
 Projet réalisé en équipe SD2. Chaque étudiant a assuré les trois rôles durant le cycle de développement :
 * **Chef de projet** : Planification et coordination.
 * **UX/UI** : Conception de la maquette (Figma/Canva) et interface utilisateur.

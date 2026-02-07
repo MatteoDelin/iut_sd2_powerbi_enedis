@@ -73,7 +73,7 @@ Les données proviennent de l'API de l'ADEME (Diagnostic de Performance Énergé
 
 Conformément au cahier des charges de GreenTech Solutions :
 
-* **Tableau de bord** : `TDB Enedis.pbix` présent dans ce repository.
+* **Tableau de bord** : `Tableau de bord Enedis.pbix` présent dans ce repository.
 * **Documentation Technique** : Schéma du modèle, règles RLS et diagnostic de performance.
 * **Documentation Fonctionnelle** : Guide utilisateur expliquant les visuels et filtres.
 * **Donnee_Source** : dossier contenant le CSV source  du rapport

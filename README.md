@@ -18,6 +18,7 @@ Notre approche se décompose en trois phases :
 
 **Lien vidéo YouTube** : 
 https://youtu.be/jEb1EaLgoaU?si=PFxaGtYZwIpvEzsm
+
 **Lien du Tableau de bord en ligne** : https://app.powerbi.com/links/WoIZiudpqm?ctid=a51a6642-5911-4306-a13c-f4731ab9c63f&pbi_source=linkShare
 
 Pour accéder au règle de sécurité accèder au rapport disponible sur le repository

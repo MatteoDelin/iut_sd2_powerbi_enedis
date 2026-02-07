@@ -19,6 +19,7 @@ Notre approche se décompose en trois phases :
 **Lien vidéo YouTube** : \_\_\_\_
 
 **Lien du Tableau de bord en ligne** : \_\_\_\_
+
 Pour accéder au règle de sécurité accèder au rapport disponible sur le repository
 
 

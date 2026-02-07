@@ -62,10 +62,8 @@ Les données proviennent de l'API de l'ADEME (Diagnostic de Performance Énergé
 | `cout\_refroidissement` | Numeric | Coût annuel estimé pour le refroidissement |
 | `cout\_eclairage` | Numeric | Coût annuel estimé pour l'éclairage |
 | `cout\_auxiliaires` | Numeric | Coût annuel estimé pour les auxiliaires |
-
-| `coordonnee\_cartographique\_x\_ban | Numeric | latitude du logement |
-
-| `coordonnee\_cartographique\_y\_ban | Numeric | longitude x du logement |
+| `coordonnee\_cartographique\_x\_ban` | Numeric | latitude du logement |
+| `coordonnee\_cartographique\_y\_ban` | Numeric | longitude x du logement |
 
 ---
 

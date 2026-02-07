@@ -74,8 +74,8 @@ Conformément au cahier des charges de GreenTech Solutions :
 * **Tableau de bord** : `TDB Enedis.pbix` présent dans ce repository.
 * **Documentation Technique** : Schéma du modèle, règles RLS et diagnostic de performance.
 * **Documentation Fonctionnelle** : Guide utilisateur expliquant les visuels et filtres.
-* **Dataset** : dossier contenant le CSV source  du rapport
-* **Dossier code** : dossier contenant les codes ayant permis la récupération des données
+* **Donnee_Source** : dossier contenant le CSV source  du rapport
+* **CodeExtract** : dossier contenant les codes ayant permis la récupération des données
 
 ---
 

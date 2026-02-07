@@ -64,7 +64,7 @@ Conformément au cahier des charges de GreenTech Solutions :
 ## Équipe et Rôles
 Projet réalisé en équipe SD2. Chaque étudiant a assuré les trois rôles durant le cycle de développement :
 * **Chef de projet** : Planification et coordination.
-* **UX/UI** : Conception de la maquette (Figma/Canva) et interface utilisateur.
+* **UX/UI** : Conception de la maquette (Canva) et interface utilisateur.
 * **Data Analyst** : Nettoyage (Power Query), modélisation et mesures DAX.
 
 **Client :** Mathieu Gaultier  
